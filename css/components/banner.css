@@ -1,0 +1,23 @@
+.banner {
+	display: flex;
+	flex-direction: column;
+	padding: 30px;
+	height:  500px;
+	justify-content: center;
+	align-items: center;
+	background-image: url("https://cdn.pixabay.com/photo/2017/08/29/12/17/hairdressing-salon-2693077_1280.jpg");
+	background-size: cover;
+	opacity: 0.8;
+	margin-bottom: 40px;
+}
+
+.banner-text-title{
+	font-size: 80px;
+	color: purple;
+	text-shadow: 1px 1px 2px black;
+}
+.banner-text-subtitle {
+	font-size: 50px;
+	color: white;
+	text-shadow: 1px 1px 2px black;
+}
